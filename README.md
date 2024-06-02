@@ -18,6 +18,12 @@ You can click the Preview link to take a look at your changes.
 
 - 📝 I regularly write articles on [https://qiita.com/chersky](https://qiita.com/chersky)
 
+## **略歴**
+- 埼玉大学理学部基礎化学科卒業（量子化学計算，量子コンピュータ）
+- 埼玉大学理工学研究科博士前期課程数理電子情報専攻情報工学PG修了（研究テーマ：非線形ダイナミクスの解析・予測のための線形アルゴリズム開発，キーワード；非線形ダイナミクス，Kooppman作用素，拡張動的モード分解，機械学習，関数解析，微分方程式）
+- 埼玉大学理工学研究科博士後期課程数理電子情報コース在籍（研究テーマ：非線形ダイナミクスの解析・予測のための線形アルゴリズム開発，キーワード；非線形ダイナミクス，Kooppman作用素，拡張動的モード分解，機械学習，関数解析，微分方程式）
+- 42Tokyo（2021-2022）
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/yayayatntn_mou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yayayatntn_mou" height="30" width="40" /></a>
